@@ -10,9 +10,10 @@ Having an AIP here does not make it a formally accepted standard until its statu
 
 Those proposing changes should consider that ultimately consent may rest with the consensus of Autonomi users and application developers.
 
-| Number               | Layer   | Title                                | Owner         | Type    | Status   |
-| -------------------- | ------- | ------------------------------------ | ------------- | ------- | -------- |
-| [1](aip-0001.md)     | Process | AIP Purpose, Process, and Guidelines | Chuck McClish | Process | Proposed |
+| Number           | Layer        | Title                                    | Owner         | Type          | Status   |
+| ---------------- | ------------ | ---------------------------------------- | ------------- | ------------- | -------- |
+| [1](aip-0001.md) |              | AIP Purpose, Process, and Guidelines     | Chuck McClish | Process       | Proposed |
+| [2](aip-0002.md) | Applications | Interoperable Application Authentication | ?             | Specification | Proposed |
 
 
 _IMPORTANT!  See the instructions at the top of this page, do NOT JUST add AIPs here!_
